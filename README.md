@@ -1,6 +1,8 @@
 Vault Ruby Client [![Build Status](https://circleci.com/gh/hashicorp/vault-ruby.svg?style=shield)](https://circleci.com/gh/hashicorp/vault-ruby)
 =================
 
+TESTING THE MIRROR FEATURE OF GIT
+
 Vault is the official Ruby client for interacting with [Vault](https://vaultproject.io) by HashiCorp.
 
 **If you're viewing this README from GitHub on the `master` branch, know that it may contain unreleased features or
