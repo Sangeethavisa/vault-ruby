@@ -1,4 +1,7 @@
 Vault Ruby Client [![Build Status](https://secure.travis-ci.org/hashicorp/vault-ruby.svg)](http://travis-ci.org/hashicorp/vault-ruby)
+
+
+TESTING THE MIRRORING FEATURE:
 =================
 
 Vault is the official Ruby client for interacting with [Vault](https://vaultproject.io) by HashiCorp.
